@@ -1,0 +1,10 @@
+a<-32
+b<-"hello"
+class(a)
+class(b)
+b<--8
+c<-43.76
+d<-"world"
+is.numeric(b)
+is.numeric(c)
+is.numeric(d)

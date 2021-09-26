@@ -1,0 +1,19 @@
+b1<-c(1,2,3,4)
+b2<-c("hello","world")
+b1<-b1^3
+sqrt(b1)
+c<- -3:9
+c
+a<-1:3
+b<-7:9
+a+b
+length(a)
+a<-1:5
+a-b
+a<3
+any(a<3)
+all(a<2)
+h<-50:60
+h
+h[0]
+h[1]
